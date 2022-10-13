@@ -1,4 +1,41 @@
-blank_issues_enabled: false
+blank_issues_enabled: Release Date	Product	Platform	Impact	Max Severity	Article	Download	Details
+Dec 14, 2021	Microsoft Office Web Apps Server 2013 Service Pack 1		
+Remote Code Execution
+Important	5002103	Security Update	CVE-2021-43256
+Dec 14, 2021	Microsoft Excel 2013 Service Pack 1 (64-bit editions)		
+Remote Code Execution
+Important	5002105	Security Update	CVE-2021-43256
+Dec 14, 2021	Microsoft Excel 2013 Service Pack 1 (32-bit editions)		
+Remote Code Execution
+Important	5002105	Security Update	CVE-2021-43256
+Dec 14, 2021	Microsoft Excel 2013 RT Service Pack 1		
+Remote Code Execution
+Important	5002105	Security Update	CVE-2021-43256
+Dec 14, 2021	Microsoft Excel 2016 (64-bit edition)		
+Remote Code Execution
+Important	5002098	Security Update	CVE-2021-43256
+Dec 14, 2021	Microsoft Excel 2016 (32-bit edition)		
+Remote Code Execution
+Important	5002098	Security Update	CVE-2021-43256
+Dec 14, 2021	Microsoft Office LTSC 2021 for 32-bit editions		
+Remote Code Execution
+Important	Click to Run	Security Update	CVE-2021-43256
+Dec 14, 2021	Microsoft Office LTSC 2021 for 64-bit editions		
+Remote Code Execution
+Important	Click to Run	Security Update	CVE-2021-43256
+Dec 14, 2021	Microsoft 365 Apps for Enterprise for 64-bit Systems		
+Remote Code Execution
+Important	Click to Run	Security Update	CVE-2021-43256
+Dec 14, 2021	Microsoft 365 Apps for Enterprise for 32-bit Systems		
+Remote Code Execution
+Important	Click to Run	Security Update	CVE-2021-43256
+Dec 14, 2021	Microsoft Office 2019 for 64-bit editions		
+Remote Code Execution
+Important	Click to Run	Security Update	CVE-2021-43256
+Dec 14, 2021	Microsoft Office 2019 for 32-bit editions		
+Remote Code Execution
+Important	Click to Run	Security Update	CVE-2021-43256
+Dec 14, 2021	Office Online Server
 contact_links:
   - name: Issue Tracker
     url: https://github.com/opencollective/opencollective/issues
